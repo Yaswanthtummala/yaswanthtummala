@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/tummala-yaswanth-sai-2131a1286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:yaswanthsai8585@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <!-- Resume: upload Yaswanth_Sai_Resume.pdf to this repo so this link works -->
-<a href="https://github.com/Yaswanthtummala/Yaswanthtummala/blob/main/Yaswanth_Sai_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-7AA2F7?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://github.com/Yaswanthtummala/Yaswanthtummala/blob/main/file:///C:/Users/yaswa/Downloads/Yaswanth_Sai_Resume_AI_Grad%20(1).pdf"><img src="https://img.shields.io/badge/Resume-Download-7AA2F7?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 <img src="https://komarev.com/ghpvc/?username=Yaswanthtummala&style=for-the-badge&color=3d59a1&label=Profile+Views" alt="Profile views"/>
 
 </div>
